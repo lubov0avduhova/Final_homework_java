@@ -10,5 +10,6 @@ public class Goods {
         System.out.printf(
                 "%.3f %s %d %s %.3f %s",
                 price, color, count, name, rate, description);
+
     }
 }

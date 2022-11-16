@@ -1,6 +1,5 @@
 public class CreateGoods {
     Goods temp;
-
     public CreateGoods() {
         temp = new Goods();
         temp.price = 0.00;
