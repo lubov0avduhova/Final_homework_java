@@ -6,6 +6,7 @@ public class Main {
                 .setRate(4.5)
                 .setColor("Черная")
                 .Create();
+
         currentGood.print();
     }
 }
